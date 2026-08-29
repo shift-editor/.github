@@ -1,6 +1,9 @@
 <div align="center">
-  <img width="220" src="./assets/lockup-light.svg#gh-light-mode-only" alt="Shift" />
-  <img width="220" src="./assets/lockup-white.svg#gh-dark-mode-only" alt="Shift" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/lockup-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/lockup-light.svg">
+    <img width="220" src="./assets/lockup-light.svg" alt="Shift">
+  </picture>
 </div>
 
 ## About
