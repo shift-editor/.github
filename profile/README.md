@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/lockup-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/lockup-light.svg">
-    <img width="220" src="./assets/lockup-light.svg" alt="Shift">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shift-editor/.github/main/profile/assets/lockup-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shift-editor/.github/main/profile/assets/lockup-light.svg">
+    <img width="220" src="https://raw.githubusercontent.com/shift-editor/.github/main/profile/assets/lockup-light.svg" alt="Shift">
   </picture>
 </div>
 
